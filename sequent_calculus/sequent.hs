@@ -1,3 +1,12 @@
+{-
+  
+  Mathematical logic. 
+  Sequents derivation and reduction trees builder.
+
+  Ivan Rybin, 2020.
+
+-}
+
 module Sequent where
 
 import Data.Map.Strict as M
