@@ -7,6 +7,8 @@
   
 -}
 
+module Truth where
+
 import Data.Set as Set hiding (map)
 
 data Expr = Var String 
